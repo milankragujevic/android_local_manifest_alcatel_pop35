@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Alcatel Pop3 (5) 5065D -->
+    <project path="device/alcatel/pop35" name="zombah/android_device_alcatel_pop35" revision="cm-12.1" />
+    <project path="kernel/alcatel/msm8909" name="zombah/android_kernel_alcatel_msm8909" revision="cm-12.1-wip" />
+    <project path="vendor/alcatel/pop35" name="zombah/proprietary_vendor_alcatel_pop35" revision="cm-12.1" />
+
+    <!-- CyanogenMod dependencies -->
+    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
+    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
+</manifest>
